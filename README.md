@@ -10,7 +10,9 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ocThiY2Zwd3F1ZXowMzM3d2t5OTdpemR5bms4cWxjdno0Zm9teSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7b9nYp7FQvK/giphy.gif" width="400" height="300" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/messi-computer.gif" width="400" height="300" />
+  <br>
+  <em>🐐 Messi en modo programador</em>
 </div>
 
 ---
@@ -87,7 +89,7 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manolora67-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manolora67-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolora67-cloud&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
@@ -95,14 +97,16 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manolora67-cloud&theme=radical" />
 </div>
 
+> ⚠️ **Nota**: Las estadísticas se actualizan automáticamente desde la API de GitHub. Si ves un error, espera unos minutos y recarga la página.
+
 ---
 
 ## 🔭 Currently Focused On
 
 <div align="center">
   
-![Focus](https://img.shields.io/badge/FOCUS-Full--Stack%20Development-2EA3F7?style=for-the-badge&logo=target)
-![Learning](https://img.shields.io/badge/LEARNING-CSS%20Grid%20%26%20Flexbox-38B2AC?style=for-the-badge&logo=udemy)
+![FOCUS](https://img.shields.io/badge/FOCUS-Full--Stack%20Development-2EA3F7?style=for-the-badge&logo=target)
+![LEARNING](https://img.shields.io/badge/LEARNING-CSS%20Grid%20%26%20Flexbox-38B2AC?style=for-the-badge&logo=udemy)
 
 - 🔭 Building full-stack projects with **PHP + PostgreSQL/SQL Server**
 - 🌱 Sharpening front-end skills with **CSS Grid & Flexbox**
@@ -117,9 +121,9 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ramírez-1520bb378)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolora67@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://david-ramirez20.github.io)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ramírez-1520bb378)
+[![GMAIL](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolora67@gmail.com)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://manolora67-cloud.github.io)
 
 </div>
 
