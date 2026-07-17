@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=David-Ramirez20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/David-Ramirez20?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=manolora67-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/manolora67-cloud?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://i.postimg.cc/wMv4TjL2/messi-programando-pixelart.png" width="800" height="300" />
+  <img src="https://github.com/manolora67-cloud/manolora67-cloud/raw/main/messi.gif" width="800" />
 </div>
 
 ---
@@ -26,7 +26,7 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 </td>
 <td width="40%">
   
-<img src="https://i.postimg.cc/wMv4TjL2/messi-programando-pixelart.png" width="100%" />
+<img src="https://github.com/manolora67-cloud/manolora67-cloud/raw/main/messi.gif" width="100%" />
 
 </td>
 </tr>
