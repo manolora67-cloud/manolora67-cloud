@@ -1,12 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+David+Ram%C3%ADrez+%F0%9F%91%8B;Full-Stack+Developer;ADSO+Student;I+build+clean+and+functional+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+David+Ram%C3%ADrez!+%F0%9F%91%8B;Full-Stack+Web+Developer;Analysis+%26+Software+Development+Student;Building+ideas+into+functional+code" />
 </h1>
 
 <div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=manolora67-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/manolora67-cloud?style=social" />
-
+  <img src="https://komarev.com/ghpvc/?username=manolora67-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/manolora67-cloud?style=social" />
 </div>
 
 ---
@@ -23,21 +21,21 @@
 
 <table>
 <tr>
-<td width="50%" align="left">
+<td width="55%" align="left">
 
-💻 **ADSO Student**  
-📍 Colombia  
+💻 **Analysis and Software Development (ADSO) Student**  
+📍 **Piedecuesta, Santander**  
 
-I build **full-stack web applications** focused on performance and clean design.
+I specialize in building **full-stack web applications**, combining clean UI with solid backend logic.
 
-⚡ I enjoy turning ideas into real products  
-🚀 Always learning new technologies  
-🎯 Focused on growth and real-world skills  
+✨ Turning ideas into real solutions  
+🚀 Constantly learning and improving  
+🎯 Focused on growth and real-world projects  
 
 </td>
 
-<td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+<td width="45%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </td>
 
 </tr>
@@ -57,27 +55,27 @@ I build **full-stack web applications** focused on performance and clean design.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
 <tr>
 <td>🏀</td>
-<td><b>Sports Inventory</b></td>
-<td>Inventory system with filters and dynamic UI</td>
+<td><b>Sports Inventory App</b></td>
+<td>Dynamic inventory system with filtering</td>
 </tr>
 
 <tr>
 <td>⚽</td>
 <td><b>Futbolmania</b></td>
-<td>Responsive e-commerce UI</td>
+<td>Responsive e-commerce interface</td>
 </tr>
 
 <tr>
 <td>🍔</td>
 <td><b>Fast Food Platform</b></td>
-<td>Modern interface with UX focus</td>
+<td>Modern UI with optimized UX</td>
 </tr>
 
 <tr>
@@ -92,7 +90,7 @@ I build **full-stack web applications** focused on performance and clean design.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -107,8 +105,18 @@ I build **full-stack web applications** focused on performance and clean design.
 ## 🐍 Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/manolora67-cloud/manolora67-cloud/output/github-contribution-grid-snake.svg" />
+</div>
 
-<img src="https://raw.githubusercontent.com/manolora67-cloud/manolora67-cloud/output/github-contribution-grid-snake.svg" />
+---
+
+## 🤝 Soft Skills
+
+<div align="center">
+
+| 💬 Communication | 🚀 Growth | 🎯 Focus |
+|-----------------|---------|--------|
+| Teamwork & clarity | Continuous learning | Client-oriented mindset |
 
 </div>
 
@@ -118,14 +126,21 @@ I build **full-stack web applications** focused on performance and clean design.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Focus-FullStack-00F7FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-CSS%20Grid%20%26%20Flexbox-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-FullStack-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-CSS%20Grid%20%26%20Flexbox-00C2FF?style=for-the-badge" />
 
 </div>
 
+<br>
+
+- 🔥 Building with **PHP + PostgreSQL / SQL Server**
+- 🎨 Improving UI with **CSS Grid & Flexbox**
+- 🤝 Open to collaboration
+- 💬 Ask me about **HTML, CSS, JS, PHP**
+
 ---
 
-## 🌐 Connect with Me
+## 📫 Connect with Me
 
 <div align="center">
 
@@ -143,7 +158,7 @@ I build **full-stack web applications** focused on performance and clean design.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ### ⚡ *"Code. Learn. Build. Repeat."*
 
