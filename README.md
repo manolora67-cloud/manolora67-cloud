@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=David-Ramirez20&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/David-Ramirez20?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=manolora67-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/manolora67-cloud?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5ocThiY2Zwd3F1ZXowMzM3d2t5OTdpemR5bms4cWxjdno0Zm9teSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD2d7b9nYp7FQvK/giphy.gif" width="400" height="300" />
 </div>
 
 ---
@@ -87,12 +87,12 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Ramirez20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Ramirez20&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manolora67-cloud&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolora67-cloud&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Ramirez20&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manolora67-cloud&theme=radical" />
 </div>
 
 ---
@@ -101,8 +101,8 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 <div align="center">
   
-![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-2EA3F7?style=for-the-badge&logo=target)
-![Learning](https://img.shields.io/badge/Learning-CSS%20Grid%20%26%20Flexbox-38B2AC?style=for-the-badge&logo=udemy)
+![Focus](https://img.shields.io/badge/FOCUS-Full--Stack%20Development-2EA3F7?style=for-the-badge&logo=target)
+![Learning](https://img.shields.io/badge/LEARNING-CSS%20Grid%20%26%20Flexbox-38B2AC?style=for-the-badge&logo=udemy)
 
 - 🔭 Building full-stack projects with **PHP + PostgreSQL/SQL Server**
 - 🌱 Sharpening front-end skills with **CSS Grid & Flexbox**
@@ -117,9 +117,9 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ramírez-1520bb378)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolora67@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://david-ramirez20.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ramírez-1520bb378)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolora67@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://david-ramirez20.github.io)
 
 </div>
 
@@ -131,6 +131,6 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-**💻 "Code is like humor. When you have to explain it, it’s bad." – Cory House**
+**💻 "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito. Si amas lo que haces, tendrás éxito." – Albert Schweitzer**
 
 </div>
