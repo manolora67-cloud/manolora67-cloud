@@ -1,17 +1,16 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+David+Ram%C3%ADrez!+👋;Analysis+%26+Software+Development+Student;Full-Stack+Web+Developer;Building+ideas+into+functional+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2EA3F7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+David+Ram%C3%ADrez!+%F0%9F%91%8B;Analysis+%26+Software+Development+Student;Full-Stack+Web+Developer;Building+ideas+into+functional+code" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manolora67-cloud&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/manolora67-cloud?label=Followers&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=manolora67-cloud&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/manolora67-cloud?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
 ---
 
-<!-- 🔥 GIF PRINCIPAL (AJUSTADO, NO TAN GIGANTE) -->
 <div align="center">
-  <img src="https://github.com/manolora67-cloud/manolora67-cloud/raw/main/messi.gif" width="75%" />
+  <img src="https://github.com/manolora67-cloud/manolora67-cloud/raw/main/messi.gif" width="800" />
 </div>
 
 ---
@@ -24,18 +23,10 @@
 
 I'm an **Analysis and Software Development (ADSO)** student based in **Piedecuesta, Santander**. I'm passionate about building full-stack web solutions, focusing on both user-centric interfaces and robust back-end logic. I enjoy turning ideas into functional code and am always looking for new challenges to grow as a developer.
 
-<br>
-
-- 💡 Focused on full-stack development  
-- 🚀 Building real-world projects  
-- 🧠 Constantly learning and improving  
-
 </td>
-
 <td width="40%">
-
-<!-- 🔥 SEGUNDO GIF BIEN PROPORCIONADO -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="90%" />
+  
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
 </td>
 </tr>
@@ -100,12 +91,12 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack%20Development-2EA3F7?style=for-the-badge&logo=target)
 ![Learning](https://img.shields.io/badge/Learning-CSS%20Grid%20%26%20Flexbox-38B2AC?style=for-the-badge&logo=udemy)
 
-</div>
+- 🔭 Building full-stack projects with **PHP + PostgreSQL/SQL Server**
+- 🌱 Sharpening front-end skills with **CSS Grid & Flexbox**
+- 👯 Open to collaborating on web development projects
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 
-- 🔭 Building full-stack projects with **PHP + PostgreSQL/SQL Server**  
-- 🌱 Sharpening front-end skills with **CSS Grid & Flexbox**  
-- 👯 Open to collaborating on web development projects  
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**  
+</div>
 
 ---
 
