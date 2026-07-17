@@ -165,6 +165,6 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### ⚡ "Code. Learn. Build. Repeat."
+### 🔥 From Santander to the world — building the future with code.
 
 </div>
