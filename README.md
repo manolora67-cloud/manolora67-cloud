@@ -117,6 +117,6 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
-**💻 "Code is like humor. When you have to explain it, it’s bad." – Cory House**
+**💻 "Choose a job you love, and you will never have to work a day in your life."**
 
 </div>
