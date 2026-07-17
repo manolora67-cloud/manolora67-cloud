@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" height="300" />
+  <img src="https://i.postimg.cc/wMv4TjL2/messi-programando-pixelart.png" width="800" height="300" />
 </div>
 
 ---
@@ -26,7 +26,7 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 </td>
 <td width="40%">
   
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img src="https://i.postimg.cc/wMv4TjL2/messi-programando-pixelart.png" width="100%" />
 
 </td>
 </tr>
@@ -84,19 +84,6 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=David-Ramirez20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-Ramirez20&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=David-Ramirez20&theme=radical" />
-</div>
-
----
-
 ## 🔭 Currently Focused On
 
 <div align="center">
@@ -119,7 +106,6 @@ I'm an **Analysis and Software Development (ADSO)** student based in **Piedecues
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-ramírez-1520bb378)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manolora67@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://david-ramirez20.github.io)
 
 </div>
 
