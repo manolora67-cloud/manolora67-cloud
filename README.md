@@ -93,7 +93,7 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manolora67-cloud&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manolora67-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manolora67-cloud&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -105,7 +105,7 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manolora67-cloud&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manolora67-cloud&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=00F7FF&line=00F7FF&point=ffffff&custom_title=GitHub%20Activity%20Graph" />
 
 </div>
 
