@@ -134,11 +134,11 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 ---
 
-## 🧠 Skills Progress
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manolora67-cloud&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=manolora67-cloud&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
