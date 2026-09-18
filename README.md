@@ -134,13 +134,16 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧠 Skills Breakdown
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manolora67-cloud&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+<pre>
+HTML5         ████████████████░░░░  80%
+CSS3          ██████████████░░░░░░  70%
+JavaScript    ████████████░░░░░░░░  60%
+PHP           ██████████░░░░░░░░░░  50%
+PostgreSQL    ████████░░░░░░░░░░░░  40%
+Git & GitHub  ████████████░░░░░░░░  60%
+</pre>
 
 ---
 
