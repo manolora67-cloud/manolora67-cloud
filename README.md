@@ -66,27 +66,57 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 <table>
 <tr>
-<td>🏀</td>
-<td><b>Sports Inventory App</b></td>
-<td>Dynamic filtering system</td>
+<td>🗺️</td>
+<td><b><a href="https://manolora67-cloud.github.io/TOURISMEASY/">Santander Accesible</a></b> <i>(formerly Tourismeasy)</i></td>
+<td>Accessible tourism platform for Santander — artisan e-commerce module, secure sessions, WhatsApp coordination between travelers and companies</td>
+</tr>
+
+<tr>
+<td>🍽️</td>
+<td><b><a href="https://manolora67-cloud.github.io/Restaurante_tipico_piedecuestano/">Restaurante Típico Piedecuestano</a></b></td>
+<td>Site for a traditional Santander-style restaurant, with a full menu, reservation form, gallery, testimonials, and map location</td>
+</tr>
+
+<tr>
+<td>🛒</td>
+<td><b><a href="https://supermarket-adso-sena.vercel.app/">Supermarket SENA Tycoon</a></b></td>
+<td>VR business-simulation game where players run a supermarket, built for SENA marketing students to practice customer service</td>
+</tr>
+
+<tr>
+<td>🛡️</td>
+<td><b><a href="https://manolora67-cloud.github.io/SEGUTIC/">SeguTIC Soluciones</a></b></td>
+<td>One-page site for a consulting firm, built with pure HTML/CSS; JavaScript handles the mobile menu, active-link highlighting, back-to-top button, and form validation</td>
+</tr>
+
+<tr>
+<td>🍟</td>
+<td><b><a href="https://manolora67-cloud.github.io/Restaurante-super-fritos-avanzado./">Super Fritos</a></b></td>
+<td>Site for a fried-food and empanada business, with a product menu, promotions, downloadable PDF catalog, gallery, and WhatsApp/social contact</td>
+</tr>
+
+<tr>
+<td>📈</td>
+<td><b><a href="https://manolora67-cloud.github.io/Landing-consultoria/">Consulting Landing Page</a></b></td>
+<td>High-conversion landing template for consulting services — pricing plans, payment-gateway integration, FAQ, and Google Analytics tracking (illustrative example)</td>
 </tr>
 
 <tr>
 <td>⚽</td>
-<td><b>Futbolmania</b></td>
-<td>Responsive e-commerce UI</td>
+<td><b><a href="https://manolora67-cloud.github.io/Futbolmania/">Futbolmanía</a></b></td>
+<td>Online store for sports gear — jerseys, cleats, and balls — with a product catalog and a flash offer with discount coupon</td>
 </tr>
 
 <tr>
-<td>🍔</td>
-<td><b>Fast Food Platform</b></td>
-<td>Modern UX design</td>
+<td>👕</td>
+<td><b><a href="https://manolora67-cloud.github.io/Inventario-camisas-de-futbol/">Soccer Jersey Inventory</a></b></td>
+<td>App to add, view, and dynamically filter a sportswear inventory, fully client-side</td>
 </tr>
 
 <tr>
 <td>📱</td>
-<td><b>Mobile Store</b></td>
-<td>CSS Grid layouts</td>
+<td><b><a href="https://manolora67-cloud.github.io/Tienda-de-celulares-sin-funcionalidad-con-grids-/">Mobile Store UI</a></b></td>
+<td>Commercial web interface for a mobile-device store, focused on complex, responsive CSS Grid layouts</td>
 </tr>
 
 </table>
@@ -95,25 +125,12 @@ I build **modern full-stack web applications** focused on performance and clean 
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently
 
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=manolora67-cloud&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolora67-cloud&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manolora67-cloud&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=00F7FF&line=00F7FF&point=ffffff&custom_title=GitHub%20Activity%20Graph" />
-
-</div>
+- 🔭 Working on my portfolio and on **Santander Accesible**
+- 🌱 Learning PHP and advanced database design
+- 💬 Ask me about HTML, CSS, and JavaScript
+- ⚡ Fun fact: most of my projects started as SENA exercises and became real sites
 
 ---
 
