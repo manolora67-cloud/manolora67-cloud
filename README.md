@@ -67,7 +67,7 @@ I build **modern full-stack web applications** focused on performance and clean 
 <table>
 <tr>
 <td>🗺️</td>
-<td><b><a href="https://manolora67-cloud.github.io/TOURISMEASY/">Santander Accesible</a></b> <i>(formerly Tourismeasy)</i></td>
+<td><b><a href="https://manolora67-cloud.github.io/Tourismeasy/">Santander Accesible</a></b> <i>(formerly Tourismeasy)</i></td>
 <td>Accessible tourism platform for Santander — artisan e-commerce module, secure sessions, WhatsApp coordination between travelers and companies</td>
 </tr>
 
